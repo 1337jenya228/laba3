@@ -7,3 +7,4 @@ def calc(a,b,znak):
         return  a*b
     else:
         return  a/b
+    ###
